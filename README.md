@@ -1,2 +1,5 @@
 # hello-world
-Public ideas
+Public comments and ideas
+
+Brand new to this!  
+This is my first branch.
